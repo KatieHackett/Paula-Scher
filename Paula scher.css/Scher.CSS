@@ -113,6 +113,9 @@ a{
     font-size: inherit;
     line-height: inherit;
     color: #030f67;
+    margin-left: 40px;
+    margin-right: 40px;
+    justify-content: space-between;
 }
 a:hover{
     color: #8585ff;
@@ -201,7 +204,9 @@ main{
 }
 header{
     margin-bottom: 2.5rem;
-    justify-content: center;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 header.logo{
     font-weight: 700;
