@@ -204,10 +204,7 @@ main{
     margin-bottom: 2.5rem;
 }
 header{
-    margin-bottom: 2.5rem;
-    justify-content: space-between;
-    margin-left: 40px;
-    margin-right: 40px;
+    border-bottom: 2-s solid #a3163b;
 }
 header.logo{
     font-weight: 700;
