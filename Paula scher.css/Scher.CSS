@@ -170,6 +170,7 @@ img{
 .img-paulaselfimage{
     width: 300px;
     height: 200px;
+    justify-content: right;
 }
 .img-presenting{
     width: 300px;
